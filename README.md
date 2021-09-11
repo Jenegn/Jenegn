@@ -15,7 +15,8 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="luffy-Jenegn" src="https://media.discordapp.net/attachments/858368516608098346/885730769018961920/luffy-haoshoku.gif">
+  <img align="right" alt="Rafa-yoda" src="https://media.discordapp.net/attachments/858368516608098346/886255444241309767/8066-tanjiro-weird.gif">
+ </div>
  
    ##
   
